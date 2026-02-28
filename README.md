@@ -123,7 +123,7 @@ npm start
 
 Frontend runs on:
 
-http://localhost:3000
+http://localhost:5173
 🔒 Environment Configuration
 
 Sensitive values should NOT be committed.
